@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1025776604275814451/1273349482964189204/20230507_191014.jpg?ex=66bef35e&is=66bda1de&hm=e7bf2406ad11708aa27181c4d5615109cf65af923b9bc5efbc9c0cedd7449267&" align="center" style="width: 100%" />
+<img src="https://cdn.discordapp.com/attachments/1025776604275814451/1273349482964189204/20230507_191014.jpg?ex=66d7ffde&is=66d6ae5e&hm=f652aafaba61119afebcd702c19bd9914d409e43fab02210bdac856700cff911&" align="center" style="width: 100%" />
 </div>  
   
 
@@ -58,7 +58,7 @@ Hi, I'm Mohsen Akhavan, a Computer Science student at the University of Birjand.
   
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1057356516723785780/1273701556323094548/3d1fbc3056534a519093b0d141ee7619.png?ex=66bf9283&is=66be4103&hm=4acd00aa2dc1406dc847b50417a045e10994cf17d16b79cd931ad00a0f2f5da0&" align="center" height="" width="" />
+<img src="https://cdn.discordapp.com/attachments/1047503812111372424/1081950037925437532/image.png?ex=66d871fe&is=66d7207e&hm=79d24f92d7bfa1383ca47483181662a3cb6deb51a0f64e719378c3b386c02874&" align="center" height="" width="" />
 </div>  
   
 
