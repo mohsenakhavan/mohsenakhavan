@@ -72,8 +72,16 @@ Hi, I'm Mohsen Akhavan, a Computer Science student at the University of Birjand.
 <br/>  
 
 #  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohsenakhavan&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenakhavan&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenakhavan&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" height="" width="" />
+</div> 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mohsenakhavan&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" height="" width="" />
+</div> 
+
 
 #  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohsenakhavan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=mohsenakhavan&limit=5&theme=dark&combine_all_yearly_contributions=true" align="center" height="" width="" />
+</div>  
+
