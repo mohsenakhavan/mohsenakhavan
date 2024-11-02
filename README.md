@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://i.ibb.co/3rVxx0m/20240910-203806.jpg" style="width: 100%" />
+<img src="https://github.com/user-attachments/assets/2316aa14-a0ae-466e-bbb2-869901ccdb9e" style="width: 100%" />
 </div>  
-  
+
 
 # Hi, I'm  Mohsen Akhavan  
   
@@ -55,10 +55,9 @@ Hi, I'm Mohsen Akhavan, a Computer Science student at the University of Birjand.
 <br/>  
 
 # Securex  
-  
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1047503812111372424/1081950037925437532/image.png?ex=66d871fe&is=66d7207e&hm=79d24f92d7bfa1383ca47483181662a3cb6deb51a0f64e719378c3b386c02874&" align="center" height="" width="" />
+<img src="https://github.com/user-attachments/assets/280fb03e-ae57-480c-bcd7-0fab4065a859" align="center" height="" width="" />
 </div>  
   
 
